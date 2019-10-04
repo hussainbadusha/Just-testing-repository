@@ -1,0 +1,2 @@
+this is second file in a folder
+checking git add with folder and committing test
